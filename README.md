@@ -1,2 +1,3 @@
-# xss-labs
-Practice Labs for cross-site scripting
+# XSS-Labs
+
+Practice Labs for cross-site scripting.
